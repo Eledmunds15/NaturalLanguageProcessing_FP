@@ -1,2 +1,4 @@
 # NaturalLanguageProcessing_FP
-In this project, I used Natural Language Processing to predict the number of stars a review had depending on it's text.
+This is my first project where I used Natural Language Processing.
+
+Using CountVectorizer, MultinomialNB, TfidfTransformer and Pipeline, I was able to predict the number of stars a review would give depending on its text.
